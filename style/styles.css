@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding:0;
+}
+.header {
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    background-color: #66CDAA;
+}
+#logo {
+    width: 150px;
+    height: 130px;
+    margin-left:50px;
+}
+nav {
+    display: flex;
+    
+}
+nav ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
